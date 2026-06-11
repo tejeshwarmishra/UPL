@@ -3,7 +3,8 @@ package parser
 import (
 	"fmt"
 	"strings"
-	"upl/pkg/lexer"
+
+	"github.com/tejeshwarmishra/upl/pkg/lexer"
 )
 
 // ASTNode is the interface all AST nodes must implement

@@ -9,7 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 	"time"
-	"upl/pkg/parser"
+
+	"github.com/tejeshwarmishra/upl/pkg/parser"
 )
 
 var (
