@@ -1,0 +1,13 @@
+{
+  "language": "hin",
+  "builtins": {
+    "दिखाओ": "console.log",
+    "खिड़की": "window",
+    "दस्तावेज़": "document",
+    "गणित": "Math",
+    "जेसन": "JSON",
+    "दिनांक": "Date",
+    "बदलोसंख्या": "parseInt",
+    "बदलोदशमलव": "parseFloat"
+  }
+}
